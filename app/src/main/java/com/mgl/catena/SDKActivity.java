@@ -1,4 +1,4 @@
-package com.timmesserschmidt.braintreesdk;
+package com.mgl.catena;
 
 import android.app.Activity;
 import android.content.Intent;
